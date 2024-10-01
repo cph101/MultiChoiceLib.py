@@ -1,5 +1,5 @@
 [project]
-name =  "MultiChoiceLib.py"
+name =  "multichoicelib"
 authors = [
     {name = "cph101", email = "cph101@icloud.com"},
 ]
