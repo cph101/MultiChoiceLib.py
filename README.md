@@ -1,6 +1,6 @@
 # MultiChoiceLib
 
-MultiChoiceLib is a one-day project, meaning that it was literally written in a day. As you can imagine, it has not extensively been tested for bugs, and I am unsure whether it works at all on non unix-based machines due to half of it being written in bash.
+MultiChoiceLib is a one-day project, meaning that it was literally written in a day. As you can imagine, it has not extensively been tested for bugs, and it does not work at all on machines which cannot run bash.
 
 Usage:
 ```python
