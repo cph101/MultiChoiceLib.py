@@ -16,5 +16,6 @@ print(query.index, query.value)
 
 Result:
 
--# Warp terminal with Grafbase theme
+![GIF image of result](https://github.com/user-attachments/assets/824a3c3c-3f49-4f0d-89f6-991eee31702b)
+> Warp terminal with Grafbase theme
 
