@@ -4,6 +4,8 @@ MultiChoiceLib is a one-day project, meaning that it was literally written in a 
 
 Usage:
 ```python
+from multichoicelib import MultiChoice
+
 query = MultiChoice("Pick one:", ["apples", "cherries"])
     .wAccentColor("\033[33m") # yellow
     .wQuestionPrefix("\033[4m") # underline, don't override
